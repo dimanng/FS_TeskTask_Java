@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FocusStart_TeskTask_Java(.Net)": {
+      "commandName": "Project",
+      "commandLineArgs": "-i -a out.txt test.txt test3.txt"
+    }
+  }
+}
